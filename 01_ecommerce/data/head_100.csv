@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,gender,age_group,signup_date,country,product_id,product_name,category,quantity,unit_price,order_id,order_date,order_status,payment_method,rating,review_text,review_id,review_date
+CUST2353,Erica,Oliver,Female,Teenagers,2022-06-29,Canada,PROD108,Fitbit Versa 3,Electronics,3,229,ORD10000,2023-07-13,Pending,Credit Card,2,good,REV20000,2025-06-06
+CUST4463,Christopher,White,Male,Adults,2023-08-24,China,PROD103,Levi's Jeans,Apparel,4,59,ORD10001,2024-08-12,Pending,PayPal,2,average,REV20001,2023-08-05
+CUST4512,Spencer,Foster,Male,Senior,2023-07-18,Germany,PROD111,Lego Star Wars Set,Toys,2,59,ORD10002,2024-08-04,Delivered,Cash on Delivery,5,good,REV20002,2023-01-03
+CUST5711,Jessica,Harris,Male,Teenagers,2025-08-22,France,PROD107,Dyson Vacuum,Home & Kitchen,4,399,ORD10003,2025-05-23,Delivered,Cash on Delivery,2,very good,REV20003,2023-03-14
+CUST1296,Amy,Johnson,Female,Teenagers,2021-03-23,Brazil,PROD105,Adidas Running Shoes,Apparel,1,110,ORD10004,2023-07-02,Returned,Cash on Delivery,1,very good,REV20004,2023-10-18
+CUST2790,Shelby,Sutton,Other,Adults,2025-07-18,Canada,PROD108,Fitbit Versa 3,Electronics,5,229,ORD10005,2023-04-13,Returned,PayPal,3,very good,REV20005,2023-02-14
+CUST2442,Jennifer,Baxter,Female,Senior,2023-11-30,France,PROD106,Instant Pot,Home & Kitchen,1,99,ORD10006,2023-12-31,Returned,Credit Card,4,very good,REV20006,2023-12-29
+CUST2451,Barbara,Hansen,Female,Adults,2024-11-10,UK,PROD103,Levi's Jeans,Apparel,2,59,ORD10007,2024-01-29,Pending,Credit Card,1,very good,REV20007,2025-06-02
+CUST2364,Mary,Guzman,Female,Adults,2023-10-30,China,PROD102,Sony Headphones,Electronics,5,199,ORD10008,2022-11-30,Shipped,Credit Card,3,bad,REV20008,2024-06-10
+CUST4713,Richard,Bell,Other,Teenagers,2024-11-11,Brazil,PROD107,Dyson Vacuum,Home & Kitchen,4,399,ORD10009,2025-05-16,Cancelled,PayPal,5,very good,REV20009,2024-12-03
+CUST1469,Joshua,Graham,Male,Teenagers,2024-07-04,Germany,PROD107,Dyson Vacuum,Home & Kitchen,4,399,ORD10010,2024-04-24,Returned,Credit Card,2,very good,REV20010,2025-07-18
+CUST5953,Audrey,Osborne,Male,Senior,2021-05-26,Japan,PROD113,Wilson Tennis Racket,Sports,2,149,ORD10011,2025-01-15,Returned,Credit Card,4,good,REV20011,2025-04-26
+CUST1438,Michelle,Vargas,Male,Adults,2023-07-11,UK,PROD109,Kindle Paperwhite,Books,1,129,ORD10012,2024-05-15,Shipped,Credit Card,1,very bad,REV20012,2024-12-28
+CUST2488,Christy,Davis,Female,Adults,2024-12-08,China,PROD100,iPhone 14,Electronics,2,999,ORD10013,2023-11-22,Delivered,Credit Card,1,very good,REV20013,2023-12-26
+CUST1413,Anthony,Best,Female,Senior,2025-07-15,China,PROD112,Barbie Dreamhouse,Toys,4,199,ORD10014,2024-05-30,Cancelled,Credit Card,3,very bad,REV20014,2024-09-11
+CUST2160,Anna,Wyatt,Other,Senior,2023-03-12,USA,PROD105,Adidas Running Shoes,Apparel,1,110,ORD10015,2023-03-30,Shipped,Credit Card,3,bad,REV20015,2025-01-28
+CUST3830,Cindy,Day,Female,Senior,2023-11-04,Japan,PROD109,Kindle Paperwhite,Books,5,129,ORD10016,2025-05-22,Cancelled,Credit Card,1,good,REV20016,2024-11-20
+CUST4174,Daniel,Gray,Other,Adults,2022-11-10,China,PROD113,Wilson Tennis Racket,Sports,2,149,ORD10017,2022-12-29,Delivered,PayPal,2,good,REV20017,2023-10-25
+CUST3281,Susan,Torres,Other,Senior,2022-07-14,France,PROD110,Harry Potter Box Set,Books,1,80,ORD10018,2022-08-31,Delivered,Cash on Delivery,1,very bad,REV20018,2022-09-09
+CUST3410,Kenneth,Garner,Female,Adults,2022-01-02,Canada,PROD108,Fitbit Versa 3,Electronics,3,229,ORD10019,2024-10-21,Cancelled,Cash on Delivery,4,bad,REV20019,2024-10-05
+CUST3147,Ronnie,Mcbride,Male,Teenagers,2021-02-24,India,PROD112,Barbie Dreamhouse,Toys,4,199,ORD10020,2024-06-02,Pending,Cash on Delivery,4,bad,REV20020,2024-07-27
+CUST4051,Edward,Molina,Female,Adults,2024-01-29,Australia,PROD112,Barbie Dreamhouse,Toys,5,199,ORD10021,2025-07-20,Returned,PayPal,1,bad,REV20021,2023-04-22
+CUST1089,Randy,Johnson,Male,Senior,2024-05-10,Canada,PROD104,Nike Air Max,Apparel,4,120,ORD10022,2022-12-06,Delivered,PayPal,1,average,REV20022,2024-02-07
+CUST2314,Danielle,Jenkins,Other,Senior,2021-03-24,France,PROD109,Kindle Paperwhite,Books,2,129,ORD10023,2023-02-17,Pending,Cash on Delivery,1,good,REV20023,2024-11-06
+CUST5205,Robert,Sanchez,Female,Senior,2022-03-30,Brazil,PROD100,iPhone 14,Electronics,2,999,ORD10024,2024-09-11,Pending,Cash on Delivery,5,very bad,REV20024,2024-11-08
+CUST2997,Amanda,Martinez,Female,Senior,2021-06-02,USA,PROD105,Adidas Running Shoes,Apparel,3,110,ORD10025,2024-05-21,Pending,Cash on Delivery,2,average,REV20025,2023-06-05
+CUST2945,Vickie,Brown,Other,Teenagers,2023-07-15,Germany,PROD109,Kindle Paperwhite,Books,1,129,ORD10026,2022-11-15,Returned,Cash on Delivery,4,average,REV20026,2024-03-10
+CUST3650,Kelly,Weber,Male,Senior,2022-01-04,France,PROD101,Samsung Galaxy S23,Electronics,3,899,ORD10027,2023-05-28,Shipped,Cash on Delivery,4,good,REV20027,2023-05-03
+CUST5755,Todd,Dixon,Male,Senior,2021-11-07,Brazil,PROD108,Fitbit Versa 3,Electronics,5,229,ORD10028,2023-12-26,Pending,Credit Card,2,very good,REV20028,2024-01-16
+CUST2895,Lawrence,Hines,Female,Senior,2021-03-15,USA,PROD102,Sony Headphones,Electronics,5,199,ORD10029,2024-12-31,Cancelled,Credit Card,5,very good,REV20029,2024-12-04
+CUST3589,Joseph,Frye,Female,Teenagers,2025-07-14,UK,PROD101,Samsung Galaxy S23,Electronics,1,899,ORD10030,2023-12-01,Returned,PayPal,2,very bad,REV20030,2025-02-03
+CUST5161,Alison,Curtis,Male,Senior,2023-04-12,France,PROD107,Dyson Vacuum,Home & Kitchen,4,399,ORD10031,2024-08-16,Returned,PayPal,4,bad,REV20031,2025-06-07
+CUST2370,Kimberly,Stevenson,Female,Senior,2021-04-02,UK,PROD105,Adidas Running Shoes,Apparel,4,110,ORD10032,2023-05-08,Cancelled,Credit Card,1,very good,REV20032,2024-11-12
+CUST4430,Michael,Thomas,Male,Adults,2024-02-14,India,PROD109,Kindle Paperwhite,Books,3,129,ORD10033,2024-03-07,Returned,Credit Card,5,very bad,REV20033,2024-10-07
+CUST3021,Mitchell,Rogers,Other,Adults,2024-01-19,Australia,PROD101,Samsung Galaxy S23,Electronics,4,899,ORD10034,2025-06-07,Returned,Cash on Delivery,3,good,REV20034,2022-10-05
+CUST1182,John,Jacobs,Male,Senior,2023-03-09,UK,PROD113,Wilson Tennis Racket,Sports,3,149,ORD10035,2022-12-11,Cancelled,PayPal,5,average,REV20035,2024-02-20
+CUST4791,David,Ford,Female,Adults,2023-11-17,Canada,PROD102,Sony Headphones,Electronics,1,199,ORD10036,2023-02-14,Delivered,Cash on Delivery,3,good,REV20036,2023-10-24
+CUST3310,Christopher,Fernandez,Male,Senior,2024-10-18,France,PROD100,iPhone 14,Electronics,2,999,ORD10037,2025-02-11,Returned,PayPal,1,bad,REV20037,2024-12-26
+CUST3661,Edward,Ford,Female,Senior,2022-04-15,Germany,PROD100,iPhone 14,Electronics,4,999,ORD10038,2024-04-29,Cancelled,Credit Card,2,very good,REV20038,2023-08-27
+CUST1500,Jill,Smith,Other,Adults,2022-02-15,Brazil,PROD104,Nike Air Max,Apparel,3,120,ORD10039,2025-05-22,Shipped,PayPal,1,good,REV20039,2024-12-08
+CUST5684,Kyle,Mills,Male,Adults,2023-09-11,Australia,PROD103,Levi's Jeans,Apparel,5,59,ORD10040,2025-05-27,Pending,Credit Card,2,good,REV20040,2023-09-17
+CUST1186,Leroy,Cordova,Male,Senior,2022-01-01,Japan,PROD109,Kindle Paperwhite,Books,4,129,ORD10041,2023-07-26,Shipped,PayPal,4,very bad,REV20041,2024-10-26
+CUST1241,Derrick,Turner,Male,Teenagers,2021-06-06,UK,PROD106,Instant Pot,Home & Kitchen,2,99,ORD10042,2023-12-16,Pending,Cash on Delivery,5,bad,REV20042,2025-05-29
+CUST4082,Kristi,Jennings,Female,Senior,2023-11-20,Australia,PROD108,Fitbit Versa 3,Electronics,4,229,ORD10043,2025-01-05,Returned,PayPal,1,very good,REV20043,2023-08-17
+CUST3728,Heather,Butler,Female,Senior,2022-12-12,France,PROD103,Levi's Jeans,Apparel,1,59,ORD10044,2023-03-18,Delivered,Cash on Delivery,2,good,REV20044,2024-10-13
+CUST1742,Catherine,Villegas,Other,Adults,2020-11-16,China,PROD112,Barbie Dreamhouse,Toys,1,199,ORD10045,2023-04-26,Returned,Cash on Delivery,1,average,REV20045,2024-06-08
+CUST3349,Travis,Proctor,Other,Senior,2024-11-02,Brazil,PROD101,Samsung Galaxy S23,Electronics,1,899,ORD10046,2025-02-26,Pending,Cash on Delivery,4,good,REV20046,2024-10-19
+CUST4751,Tyler,Martin,Male,Adults,2020-11-07,USA,PROD112,Barbie Dreamhouse,Toys,3,199,ORD10047,2024-12-28,Cancelled,Credit Card,1,average,REV20047,2024-12-07
+CUST2954,Maria,Moore,Female,Teenagers,2024-05-25,China,PROD110,Harry Potter Box Set,Books,1,80,ORD10048,2023-11-10,Returned,Credit Card,3,very good,REV20048,2025-04-30
+CUST4905,Betty,Thornton,Other,Adults,2025-07-15,Canada,PROD103,Levi's Jeans,Apparel,2,59,ORD10049,2025-03-17,Delivered,Credit Card,3,very bad,REV20049,2024-05-05
+CUST4613,Jennifer,Snyder,Female,Senior,2025-05-16,China,PROD107,Dyson Vacuum,Home & Kitchen,5,399,ORD10050,2025-01-03,Pending,Cash on Delivery,4,bad,REV20050,2024-02-26
+CUST1209,Jeffrey,Hicks,Female,Teenagers,2022-12-07,Germany,PROD108,Fitbit Versa 3,Electronics,2,229,ORD10051,2023-06-14,Returned,Cash on Delivery,3,good,REV20051,2023-04-19
+CUST5685,Eugene,Long,Female,Teenagers,2022-11-17,Japan,PROD108,Fitbit Versa 3,Electronics,1,229,ORD10052,2023-05-07,Cancelled,PayPal,3,bad,REV20052,2023-08-23
+CUST2016,Evan,Gonzales,Female,Senior,2023-12-07,Japan,PROD111,Lego Star Wars Set,Toys,5,59,ORD10053,2023-09-04,Pending,Credit Card,2,very bad,REV20053,2025-01-03
+CUST5282,Sean,Davis,Male,Adults,2023-11-19,India,PROD102,Sony Headphones,Electronics,5,199,ORD10054,2025-06-10,Pending,Cash on Delivery,3,bad,REV20054,2023-03-13
+CUST5144,Zachary,Johnston,Other,Teenagers,2021-10-01,USA,PROD100,iPhone 14,Electronics,5,999,ORD10055,2025-02-09,Delivered,Credit Card,3,good,REV20055,2024-05-03
+CUST2871,Jon,Flynn,Female,Adults,2021-02-03,France,PROD112,Barbie Dreamhouse,Toys,2,199,ORD10056,2025-08-15,Shipped,Cash on Delivery,3,average,REV20056,2024-12-01
+CUST4853,Alex,Johnston,Female,Adults,2023-01-21,UK,PROD108,Fitbit Versa 3,Electronics,2,229,ORD10057,2024-02-07,Returned,Credit Card,3,very bad,REV20057,2023-07-10
+CUST3810,Bryce,White,Female,Teenagers,2022-11-20,Germany,PROD105,Adidas Running Shoes,Apparel,4,110,ORD10058,2024-10-21,Pending,Cash on Delivery,2,very bad,REV20058,2025-07-24
+CUST4294,Sherri,Houston,Female,Adults,2025-04-02,India,PROD100,iPhone 14,Electronics,2,999,ORD10059,2023-05-10,Delivered,Credit Card,3,very good,REV20059,2022-11-21
+CUST3033,Dawn,Adams,Male,Senior,2023-08-26,Japan,PROD107,Dyson Vacuum,Home & Kitchen,3,399,ORD10060,2024-06-17,Returned,Credit Card,1,very bad,REV20060,2024-07-31
+CUST3784,John,Young,Male,Teenagers,2023-06-24,Canada,PROD112,Barbie Dreamhouse,Toys,4,199,ORD10061,2025-02-03,Shipped,Cash on Delivery,5,good,REV20061,2024-01-21
+CUST2808,Jason,Larson,Other,Adults,2020-10-09,USA,PROD110,Harry Potter Box Set,Books,1,80,ORD10062,2023-07-17,Returned,Credit Card,5,very good,REV20062,2022-12-29
+CUST2357,Kimberly,Morgan,Male,Teenagers,2024-06-06,Canada,PROD114,Yoga Mat,Sports,2,25,ORD10063,2023-05-02,Pending,PayPal,1,bad,REV20063,2022-09-23
+CUST2617,Derrick,Garcia,Female,Senior,2025-06-02,UK,PROD102,Sony Headphones,Electronics,3,199,ORD10064,2023-03-08,Delivered,Credit Card,2,very bad,REV20064,2024-05-02
+CUST4265,Joshua,Lewis,Male,Adults,2021-10-19,Brazil,PROD106,Instant Pot,Home & Kitchen,1,99,ORD10065,2024-11-08,Delivered,Cash on Delivery,5,very good,REV20065,2025-05-11
+CUST3414,Amanda,Fernandez,Other,Senior,2024-03-08,Japan,PROD105,Adidas Running Shoes,Apparel,4,110,ORD10066,2022-11-05,Pending,PayPal,1,average,REV20066,2024-06-20
+CUST3933,Rachel,Thompson,Female,Senior,2023-12-23,France,PROD113,Wilson Tennis Racket,Sports,2,149,ORD10067,2024-04-19,Pending,Cash on Delivery,2,very good,REV20067,2023-05-14
+CUST3963,Nancy,Johnson,Female,Teenagers,2022-05-03,India,PROD113,Wilson Tennis Racket,Sports,5,149,ORD10068,2024-07-27,Returned,Cash on Delivery,1,good,REV20068,2025-03-11
+CUST3029,Laura,Lopez,Female,Teenagers,2022-11-10,Japan,PROD103,Levi's Jeans,Apparel,2,59,ORD10069,2025-01-22,Pending,Credit Card,2,very good,REV20069,2024-06-09
+CUST2383,Rebecca,Thomas,Male,Teenagers,2022-08-06,Germany,PROD105,Adidas Running Shoes,Apparel,3,110,ORD10070,2024-03-10,Pending,Cash on Delivery,2,very good,REV20070,2024-02-12
+CUST1138,Sarah,Reilly,Female,Adults,2023-09-03,France,PROD113,Wilson Tennis Racket,Sports,3,149,ORD10071,2022-10-05,Returned,Cash on Delivery,3,good,REV20071,2022-11-17
+CUST4400,Patricia,Tanner,Female,Adults,2021-09-01,Australia,PROD106,Instant Pot,Home & Kitchen,4,99,ORD10072,2023-08-01,Cancelled,Cash on Delivery,3,bad,REV20072,2024-12-26
+CUST1693,Jason,Miller,Other,Teenagers,2022-01-29,Canada,PROD102,Sony Headphones,Electronics,3,199,ORD10073,2024-05-02,Shipped,PayPal,1,bad,REV20073,2024-11-13
+CUST1371,Antonio,Stevenson,Female,Senior,2021-11-12,USA,PROD105,Adidas Running Shoes,Apparel,5,110,ORD10074,2022-10-06,Returned,Cash on Delivery,4,very good,REV20074,2022-12-07
+CUST5445,Jennifer,Wilson,Other,Teenagers,2020-12-24,Japan,PROD112,Barbie Dreamhouse,Toys,1,199,ORD10075,2023-11-25,Cancelled,PayPal,1,good,REV20075,2025-06-26
+CUST1539,Cheryl,Mccarthy,Female,Teenagers,2025-01-17,China,PROD105,Adidas Running Shoes,Apparel,2,110,ORD10076,2025-08-21,Shipped,Credit Card,3,very bad,REV20076,2024-04-18
+CUST1892,Renee,Rivers,Female,Senior,2023-12-01,Japan,PROD103,Levi's Jeans,Apparel,3,59,ORD10077,2025-06-14,Cancelled,Credit Card,5,average,REV20077,2023-04-15
+CUST5088,Dean,Clark,Other,Senior,2025-05-26,Brazil,PROD103,Levi's Jeans,Apparel,3,59,ORD10078,2023-04-07,Pending,PayPal,2,very good,REV20078,2023-08-11
+CUST3422,Jeffrey,Stevens,Female,Senior,2022-03-30,China,PROD108,Fitbit Versa 3,Electronics,3,229,ORD10079,2025-07-09,Returned,Credit Card,4,good,REV20079,2024-07-14
+CUST2079,Alexander,Baker,Other,Adults,2022-02-19,Brazil,PROD111,Lego Star Wars Set,Toys,5,59,ORD10080,2023-02-10,Returned,Credit Card,5,very good,REV20080,2023-11-19
+CUST1624,Laura,Villa,Female,Senior,2021-10-23,Canada,PROD109,Kindle Paperwhite,Books,4,129,ORD10081,2023-03-27,Returned,Cash on Delivery,4,average,REV20081,2024-07-24
+CUST4048,Shelia,Juarez,Female,Adults,2023-06-22,Japan,PROD108,Fitbit Versa 3,Electronics,2,229,ORD10082,2025-03-04,Delivered,PayPal,3,bad,REV20082,2023-06-13
+CUST2089,Carrie,Myers,Female,Senior,2021-12-26,Japan,PROD104,Nike Air Max,Apparel,2,120,ORD10083,2023-10-09,Shipped,Cash on Delivery,1,good,REV20083,2023-01-18
+CUST4354,Kristin,Silva,Other,Adults,2022-11-12,Germany,PROD103,Levi's Jeans,Apparel,2,59,ORD10084,2023-04-05,Delivered,Cash on Delivery,1,very bad,REV20084,2025-03-27
+CUST5300,Laura,Kerr,Male,Senior,2021-06-07,China,PROD101,Samsung Galaxy S23,Electronics,2,899,ORD10085,2023-06-21,Pending,Cash on Delivery,1,good,REV20085,2025-08-01
+CUST3660,Christina,Christensen,Male,Adults,2024-06-25,India,PROD109,Kindle Paperwhite,Books,4,129,ORD10086,2025-07-30,Returned,PayPal,3,good,REV20086,2024-09-15
+CUST5297,Tiffany,Hatfield,Female,Teenagers,2025-08-22,India,PROD101,Samsung Galaxy S23,Electronics,4,899,ORD10087,2022-09-25,Shipped,Credit Card,2,average,REV20087,2024-09-19
+CUST4458,Anthony,Romero,Other,Teenagers,2022-04-28,Japan,PROD104,Nike Air Max,Apparel,2,120,ORD10088,2025-07-21,Cancelled,Cash on Delivery,3,good,REV20088,2025-05-02
+CUST2896,Michael,Smith,Other,Teenagers,2021-02-28,China,PROD113,Wilson Tennis Racket,Sports,3,149,ORD10089,2025-08-13,Pending,Cash on Delivery,5,bad,REV20089,2023-07-02
+CUST3739,Brandon,Lopez,Other,Senior,2023-03-31,India,PROD102,Sony Headphones,Electronics,2,199,ORD10090,2025-08-12,Returned,PayPal,5,very good,REV20090,2025-06-13
+CUST1832,Lisa,Reese,Other,Teenagers,2023-04-27,India,PROD102,Sony Headphones,Electronics,5,199,ORD10091,2023-09-14,Delivered,Credit Card,5,very good,REV20091,2023-06-10
+CUST1647,Kent,Kelley,Other,Adults,2025-06-02,France,PROD114,Yoga Mat,Sports,4,25,ORD10092,2024-01-09,Cancelled,PayPal,2,good,REV20092,2023-01-09
+CUST1807,Howard,Mason,Female,Adults,2023-03-24,Canada,PROD113,Wilson Tennis Racket,Sports,2,149,ORD10093,2023-07-07,Returned,Credit Card,2,very good,REV20093,2025-03-11
+CUST4296,Jeremy,Summers,Male,Teenagers,2022-12-28,France,PROD104,Nike Air Max,Apparel,3,120,ORD10094,2023-12-30,Pending,Credit Card,2,bad,REV20094,2025-06-30
+CUST1254,William,Giles,Male,Teenagers,2022-11-11,Germany,PROD105,Adidas Running Shoes,Apparel,3,110,ORD10095,2024-06-30,Shipped,Credit Card,5,average,REV20095,2025-01-02
+CUST1033,Randy,Anderson,Female,Senior,2024-08-17,Japan,PROD114,Yoga Mat,Sports,2,25,ORD10096,2023-07-10,Shipped,Credit Card,4,average,REV20096,2023-05-12
+CUST1698,Jennifer,Boyd,Female,Senior,2024-05-13,Germany,PROD103,Levi's Jeans,Apparel,1,59,ORD10097,2024-05-03,Returned,Credit Card,4,bad,REV20097,2023-11-30
+CUST2386,Christina,Howell,Other,Adults,2025-05-11,Germany,PROD101,Samsung Galaxy S23,Electronics,5,899,ORD10098,2024-12-28,Cancelled,Credit Card,5,very good,REV20098,2024-02-09
+CUST3511,Danielle,Campbell,Other,Adults,2021-04-24,France,PROD110,Harry Potter Box Set,Books,1,80,ORD10099,2024-10-19,Shipped,PayPal,3,bad,REV20099,2025-02-17

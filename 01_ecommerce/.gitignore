@@ -1,0 +1,15 @@
+*.csv
+*.db
+
+# Ignora arquivos de ambiente virtual e de configuração
+.venv/
+.env
+
+# Ignora arquivos de notebooks Jupyter
+.ipynb_checkpoints/
+
+# Ignora arquivos de IDEs e de build
+.vscode/
+*.pyc
+
+!data/head_100.csv
