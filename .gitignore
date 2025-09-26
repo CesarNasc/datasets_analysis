@@ -12,4 +12,7 @@
 .vscode/
 *.pyc
 
-!data/head_100.csv
+# Considera os arquivos abaixo
+
+!01_ecommerce\data\head_100.csv
+!02_game_details/data/head_100.csv
