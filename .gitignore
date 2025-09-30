@@ -14,5 +14,6 @@
 
 # Considera os arquivos abaixo
 
-!01_ecommerce\data\head_100.csv
+!01_ecommerce/data/head_100.csv
 !02_game_details/data/head_100.csv
+!03_salary_data/data/head_100.csv
