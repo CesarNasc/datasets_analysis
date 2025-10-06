@@ -1,0 +1,17 @@
+01_ecommerce - PowerBI
+
+- Cartão com total de vendas
+- Cartão com total de receita
+- Cartão com total de produtos vendidos
+- Cartão de Ticket Médio
+
+- Filtro de seleção Ano
+- Filtro de seleção Mês
+- Filtro de seleção País
+- Filtro de seleção Gênero
+- Filtro de seleção Faixa Etária
+
+- Gráfico de linha com receita temporal
+- Gráfico de colunas Produtos
+- Gráfico de colunas Categoria de Produtos
+- Gráfico de Rosca Faixa Etária
