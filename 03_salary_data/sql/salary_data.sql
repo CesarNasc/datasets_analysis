@@ -1,4 +1,4 @@
-SELECT * FROM salary_data LIMIT 10;
+SELECT * FROM salary_data LIMIT 30;
 
 -- Bloco 1: Fundamentos e Filtros
 -- Busca por Título: Encontre o Gender e o Salary de todos os funcionários cujo cargo (Job Title) seja 
@@ -67,6 +67,15 @@ SELECT education_level, count(education_level) as qtde_funcionarios, round(avg(S
 FROM salary_data
 GROUP BY education_level
 HAVING salario_medio > 100000
+
+
+
+
+
+
+
+
+
 
 
 
