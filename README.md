@@ -17,4 +17,4 @@ Cada projeto é organizado em uma pasta separada (`01_ecommerce`, `02_salary_dat
 2.  `python/`: Notebooks Jupyter (`.ipynb`) com o código completo de análise.
 3.  `powerbi/`: Arquivos de dashboard (`.pbix`).
 
-[Voltar ao Perfil Principal](https://github.com/CesarNasc)
+[Voltar ao Perfil](https://github.com/CesarNasc)
